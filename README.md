@@ -22,7 +22,7 @@ Finally, we will use the Vigenère cipher table to encrypt the text:<br>
 In this project, an encrypted message and a reference text are given, and we have to find the desired key using the genetic algorithm and return the decoded message. Note that the encryption key in this project has 14 letters. Therefore, its calculations will take a very long time with trial-and-error methods on personal computers. So the use of genetic algorithms is very effective.
 
 ## Data:
-The file global_text.txt contains lots of words with which we should help our genetic algorithm find the encryption key. The given .txt file was read, and only alphabets, spaces, and " ' " characters were kept. Then stop words were removed and stored in a set of words separated by a space. All letters were also converted to uppercase.
+The file global_text.txt contains lots of words with which we should help our genetic algorithm find the encryption key. The given .txt file was read, and only alphabetic characters, spaces, and " ' " characters were kept. Then stop words were removed and stored in a set of words separated by a space. All letters were also converted to uppercase.
 
 ## How to use:
 1. Open .py file
