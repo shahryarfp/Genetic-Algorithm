@@ -2,7 +2,7 @@
 The purpose of encryption is to convert the raw text (message) into ciphertext so that no one but the recipient of the message can understand it. The encryption used in this project is done using an encryption key and a table.<br>
 The table can be seen here:
 
-<img src="./table.jpg" width="500" height="500">
+<img src="./table.jpg" width="400" height="400">
 
 For this purpose, first a desired encryption key is selected. Then a new string is created using this key, and finally, using the Vigenère cipher table, the encrypted text is created. To start the encryption process, first a desired key is selected. This key will be repeated until it equals the text we want to encrypt in length. For example, if the text we want to encrypt is:
 
@@ -14,7 +14,7 @@ and the key is "RUN,"  the initial string created will be:
 
 Finally, we will use the Vigenère cipher table to encrypt the text:<br>
 
-![](./sample.jpg)
+<img src="./sample.jpg" width="500" height="100">
 
 
 
