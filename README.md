@@ -3,7 +3,7 @@ The purpose of encryption is to convert the raw text (message) into ciphertext s
 
 The encryption used in this project is done using an encryption key and a table.
 The table can be seen here:
-!{}[./table.jpg]
+![](./table.jpg)
 
 For this purpose, first a desired encryption key is selected. Then a new string is created using this key, and finally, using the Vigenère cipher table, the encrypted text is created.
 
