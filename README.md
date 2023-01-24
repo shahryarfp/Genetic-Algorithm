@@ -14,7 +14,9 @@ and the key is "RUN,"  the initial string created will be:
 
 "RU NRU NRUNRUNRUN RUNR UNRUNRUN" 
 
-Finally, we will use the Vigenère cipher table to encrypt the text.
+Finally, we will use the Vigenère cipher table to encrypt the text:<br>
+
+![](./sample.jpg)
 
 
 
